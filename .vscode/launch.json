@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IntArrayWorkerTester",
+            "request": "launch",
+            "mainClass": "app.IntArrayWorkerTester",
+            "projectName": "PicLab"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PictureExplorer",
+            "request": "launch",
+            "mainClass": "app.PictureExplorer",
+            "projectName": "PicLab"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ColorChooser",
+            "request": "launch",
+            "mainClass": "app.ColorChooser",
+            "projectName": "PicLab"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PictureTester",
             "request": "launch",
             "mainClass": "app.PictureTester",
